@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mephmanx.github.io/csb-3zsiwp/static/css/main.1aeeedfa.chunk.css",
+    "main.js": "https://mephmanx.github.io/csb-3zsiwp/static/js/main.7e71604c.chunk.js",
+    "main.js.map": "https://mephmanx.github.io/csb-3zsiwp/static/js/main.7e71604c.chunk.js.map",
+    "runtime-main.js": "https://mephmanx.github.io/csb-3zsiwp/static/js/runtime-main.8c8bf614.js",
+    "runtime-main.js.map": "https://mephmanx.github.io/csb-3zsiwp/static/js/runtime-main.8c8bf614.js.map",
+    "static/js/2.0fd3f829.chunk.js": "https://mephmanx.github.io/csb-3zsiwp/static/js/2.0fd3f829.chunk.js",
+    "static/js/2.0fd3f829.chunk.js.map": "https://mephmanx.github.io/csb-3zsiwp/static/js/2.0fd3f829.chunk.js.map",
+    "index.html": "https://mephmanx.github.io/csb-3zsiwp/index.html",
+    "static/css/main.1aeeedfa.chunk.css.map": "https://mephmanx.github.io/csb-3zsiwp/static/css/main.1aeeedfa.chunk.css.map",
+    "static/js/2.0fd3f829.chunk.js.LICENSE.txt": "https://mephmanx.github.io/csb-3zsiwp/static/js/2.0fd3f829.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c8bf614.js",
+    "static/js/2.0fd3f829.chunk.js",
+    "static/css/main.1aeeedfa.chunk.css",
+    "static/js/main.7e71604c.chunk.js"
+  ]
+}
